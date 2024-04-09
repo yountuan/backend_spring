@@ -1,5 +1,5 @@
-# demo
-CS 204: Back-end Development with (Spring) Framework
+# Backend project with Java Spring Framework
+CS 204: Back-end Development with Spring Framework
 Here is the link to the app: https://yiuoii.herokuapp.com/
 
 To get started you need to login or sign up, if you are not signed up yet
